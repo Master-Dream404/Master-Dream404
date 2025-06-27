@@ -8,7 +8,7 @@
 
 - **ZecureAuth** (next-gen authentication & licensing system)  
 - **ZeroDown** (private CNC / C2 / botnet framework)  
-- **FiveM Offset Dumper** (PDB-based offset & trigger dumper)  
+- **FiveM Offset Dumper** (offset & trigger dumper)  
 - **AntiCheat Bypasses** (EAC, BattlEye, FiveM, Faceit)  
 - **Memory utilities for game security bypass** (thread spoofing, syscall spoofing, stack spoofing)  
 
