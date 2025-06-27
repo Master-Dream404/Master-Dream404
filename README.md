@@ -16,7 +16,7 @@
 
 ## 💻 Languages
 
-C, C++, PHP, Lua, JavaScript, C#, Python, SQL
+C, C++, Rust, C#, Lua, JavaScript, TypeScript, PHP, Python, SQL, HTML/CSS, Batch, PowerShell, Assembly (x64 NASM/MASM)
 
 ---
 
