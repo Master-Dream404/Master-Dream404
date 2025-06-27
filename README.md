@@ -54,14 +54,30 @@ C, C++, Rust, C#, Lua, JavaScript, TypeScript, PHP, Python, SQL, HTML/CSS, Batch
 
 ## 🗂️ Projects I have worked on
 
-- **Cidia FiveM**
-- **Cidia Cheats**
-- **Cidia CS2**
-- **Cidia Faceit**
-- **BitByte**
-- **Cidia Rust Cheat**
-- **OldCheats**
-- **INSTENT Cheats**
+- **Cidia FiveM** – advanced FiveM cheat (Lua environment control, ESP, aimbot, script dumper, anti-detection)
+- **Cidia Cheats** – multi-game cheat framework project
+- **Cidia CS2** – CS2 cheat with entity scanning, aimbot, and overlay
+- **Cidia Faceit** – Faceit anti-cheat bypass experiments
+- **BitByte** – utility framework for memory and tooling
+- **Cidia Rust Cheat** – external Rust cheat with kernel driver and ImGui overlay
+- **OldCheats** – early cheat and loader projects
+- **INSTENT Cheats** – fast private cheat loader and bypass system
+- **ZecureAuth** – advanced encrypted authentication system and licensing platform
+- **ZeroDown** – private loader and bypass framework
+- **FiveM Offset Dumper** – PDB-based automated dumper for FiveM offsets
+- **AntiCheat Bypasses** – EAC, BattlEye, FiveM adhesive bypass methods
+- **Memory Utilities** – internal library for pattern scanning, manual mapping, module hiding
+- **Trigger Finder** – FiveM script trigger finder and dumper
+- **Kernel Syscall Spoof Project** – syscall spoofing for bypassing user-mode anti-cheats
+- **Thread Start Spoof Project** – TEB start address spoofing for stealth thread creation
+- **Reflective Injection Project** – reflective DLL injection for clean internal loaders
+- **Entity Dumper** – FiveM entity list dumper for ESP/aimbot development
+- **SQL & PHP Auth Panels** – authentication panels for loaders and tools
+- **Lua Loader System** – FiveM private Lua loader with decryption
+- **ESP Frameworks** – ESP overlays with memory reading
+- **Socket-Based Auth Systems** – encrypted socket authentication for cheat loaders
+- **Clean Hooking Experiments** – VMT, IAT, and syscall spoofing tests
+- **WebSocket Panel Framework** – real-time license check server-client system
 
 ---
 
